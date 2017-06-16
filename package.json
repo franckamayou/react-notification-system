@@ -1,7 +1,7 @@
 {
-  "name": "react-notification-system",
+  "name": "react-notification-system-umd",
   "version": "0.2.14",
-  "description": "A React Notification System fully customized",
+  "description": "A React Notification System fully customized, with a fix for the UMD build.",
   "main": "dist/NotificationSystem.js",
   "scripts": {
     "test": "karma start --single-run",
@@ -25,12 +25,12 @@
     "react component",
     "react-component"
   ],
-  "author": "Igor Prado",
+  "author": "Franck Kamayou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/igorprado/react-notification-system/issues"
+    "url": "https://github.com/franckamayou/react-notification-system/issues"
   },
-  "homepage": "https://github.com/igorprado/react-notification-system",
+  "homepage": "https://github.com/franckamayou/react-notification-system",
   "dependencies": {
     "create-react-class": "^15.5.1",
     "object-assign": "^4.0.1",
